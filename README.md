@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 </p>
 
 Here are some ideas to get you started:
-<a href="https://www.linkedin.com/in/lahiru-udawaththa/">
+<a href="https://www.linkedin.com/in/prineth-fernando-4072231ab/">
   <img src="https://img.shields.io/badge/-lahiru_udawaththa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru_udawaththa-630155147/" />
 </a>
-<a href="mailto:lahiruudawaththa8@gmail.com">
-  <img src="https://img.shields.io/badge/-lahiruudawaththa8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahiruudawaththa8@gmail.com" />
+<a href="mailto:fprineth@gmail.com">
+  <img src="https://img.shields.io/badge/-fprineth@gamil.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fprineth@gmail.com" />
 </a>
 <a href="https://dev.to/lahiruroot">
   <img src="https://img.shields.io/badge/DEV.to-lahiruroot-black" />
 </a>
 <a href="https://github.com/prineth">
-  <img src="https://img.shields.io/github/followers/lahiruroot?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/followers/prineth?label=Follow&style=social" />
 </a>
