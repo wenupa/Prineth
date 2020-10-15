@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 <!--
 <img src="https://github.com/lahiruroot/lahiruroot/blob/main/biogif/Blue%20Illustrated%20General%20Grocery%20Supplies%20Online%20Service%20Grocery%20Facebook%20Cover.gif"/>
-
 -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=prineth&layout=compact&exclude_repo=PingMeRN"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=prineth&layout=compact&exclude_repo=PingMeRN&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,3 +53,5 @@ Here are some ideas to get you started:  -->
   <img src="https://img.shields.io/github/followers/prineth?label=Follow&style=social" />
 </a>
 
+
+### Show some ❤️ by starring some of the repositories!
