@@ -22,14 +22,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruroot&layout=compact&exclude_repo=PingMeRN"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=prineth&layout=compact&exclude_repo=PingMeRN"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=lahiruroot&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=prineth&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 <a href="https://dev.to/lahiruroot">
   <img src="https://img.shields.io/badge/DEV.to-lahiruroot-black" />
 </a>
-<a href="https://github.com/lahiruroot">
+<a href="https://github.com/prineth">
   <img src="https://img.shields.io/github/followers/lahiruroot?label=Follow&style=social" />
 </a>
