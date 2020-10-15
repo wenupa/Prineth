@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=prineth&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
+      src="https://github-readme-stats.vercel.app/api?username=prineth&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=ffffff&icon_color=bb2acf&text_color=bc96e6&bg_color=151515"
     />
   </a>
 </p>
