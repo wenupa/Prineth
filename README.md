@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <img src="https://github.com/lahiruroot/lahiruroot/blob/main/biogif/Blue%20Illustrated%20General%20Grocery%20Supplies%20Online%20Service%20Grocery%20Facebook%20Cover.gif"/>
 
-
+-->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
