@@ -33,8 +33,8 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-
-Here are some ideas to get you started:
+<!--
+Here are some ideas to get you started:  -->
 <a href="https://www.linkedin.com/in/prineth-fernando-4072231ab/">
   <img src="https://img.shields.io/badge/-prineth_fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prineth_fernando-630155147/" />
 </a>
