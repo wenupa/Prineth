@@ -41,9 +41,15 @@ Here are some ideas to get you started:
 <a href="mailto:fprineth@gmail.com">
   <img src="https://img.shields.io/badge/-fprineth@gamil.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fprineth@gmail.com" />
 </a>
-<a href="https://dev.to/lahiruroot">
-  <img src="https://img.shields.io/badge/DEV.to-lahiruroot-black" />
+<!--<a href="https://dev.to/prineth">
+  <img src="https://img.shields.io/badge/DEV.to-prineth-black" />
+</a>-->
+
+<a href="https://dev.to/prineth">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prineth Fernando's DEV Profile" height="30" width="30">
 </a>
+
 <a href="https://github.com/prineth">
   <img src="https://img.shields.io/github/followers/prineth?label=Follow&style=social" />
 </a>
+
