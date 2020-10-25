@@ -53,6 +53,6 @@ Here are some ideas to get you started:  -->
   <img src="https://img.shields.io/github/followers/prineth?label=Follow&style=social" />
 </a>
 ![](https://komarev.com/ghpvc/?username=prinethe&color=green)
-![](https://komarev.com/ghpvc/?username=prineth)
+https://komarev.com/ghpvc/?username=prineth
 
 ### Show some ❤️ by starring some of the repositories!
