@@ -55,7 +55,6 @@ Here are some ideas to get you started:  -->
  <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img
       align="center"
-      src=https://komarev.com/ghpvc/?username=prineth"
-    />
+      src=https://komarev.com/ghpvc/?username=prineth&color=blueviolet"/>
   </a>
 ### Show some ❤️ by starring some of the repositories!
