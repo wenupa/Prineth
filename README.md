@@ -54,5 +54,5 @@ Here are some ideas to get you started:  -->
 </a>
 ![](https://komarev.com/ghpvc/?username=prinethe&color=green)
 https://komarev.com/ghpvc/?username=prineth
-
+![](https://komarev.com/ghpvc/?username=prineth&label=PROFILE+VIEWS)
 ### Show some ❤️ by starring some of the repositories!
