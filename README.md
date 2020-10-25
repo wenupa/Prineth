@@ -52,7 +52,10 @@ Here are some ideas to get you started:  -->
 <a href="https://github.com/prineth">
   <img src="https://img.shields.io/github/followers/prineth?label=Follow&style=social" />
 </a>
-![](https://komarev.com/ghpvc/?username=prinethe&color=green)
-https://komarev.com/ghpvc/?username=prineth
-![](https://komarev.com/ghpvc/?username=prineth&label=PROFILE+VIEWS)
+ <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img
+      align="center"
+      src=https://komarev.com/ghpvc/?username=prineth"
+    />
+  </a>
 ### Show some ❤️ by starring some of the repositories!
