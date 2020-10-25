@@ -56,5 +56,5 @@ Here are some ideas to get you started:  -->
     <img
       align="center"
       src="https://komarev.com/ghpvc/?username=prineth&color=blueviolet&label=PROFILE+VIEWS" />
-  </a>
+  </a><br>
 ### Show some ❤️ by starring some of the repositories!
